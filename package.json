@@ -1,0 +1,24 @@
+{
+  "name": "date-time-formatter-dtf",
+  "version": "1.0.0",
+  "description": "date time formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marwaRaboudi/DTF.git"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "format"
+  ],
+  "author": "Marwa Raboudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marwaRaboudi/DTF/issues"
+  },
+  "homepage": "https://github.com/marwaRaboudi/DTF#readme"
+}
