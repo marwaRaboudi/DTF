@@ -5,6 +5,9 @@ function TimestampToDate (timestamp, options)
 
 options : Object 
 
+locales
+language identifier
+
 year
 Possible values :
 "numeric" (example 2012)
